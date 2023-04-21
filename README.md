@@ -1,8 +1,9 @@
 # ToDo-Mini-Project
-Todo project based on java 
+Todo project based on java , jsp , jstl
  
 #Tools and technologies used  :
 
+#Tools:
 IDE - STS/Eclipse
 
 JDK - 1.8 or later
@@ -10,6 +11,8 @@ JDK - 1.8 or later
 jre 7
 
 sqlserver data base
+
+#jar:
 
 Apache Tomcat - 7.0.57 or 8.5
 
